@@ -1,0 +1,13 @@
+.jumbotron {
+    text-align: center;
+    font-size: 40px;
+    background-color: pink;
+    color: darkslategray;
+}
+
+.instructions {
+    text-align: center;
+    background-color: yellow;
+    color: darkslategray;
+}
+
